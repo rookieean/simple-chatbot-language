@@ -1,0 +1,17 @@
+html {
+    background-color: black;
+}
+
+.kotak {
+    background-color: #070C0E;
+    text-align: center;
+}
+
+.kotak-percakapan {
+    font-size: 'Courier Prime';
+}
+
+.input {
+    height: 300;
+    width: 500;
+}
